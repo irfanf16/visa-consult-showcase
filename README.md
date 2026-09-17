@@ -7,7 +7,7 @@ Immigration case management — applications modelled as a state machine with pe
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Full-stack engineer — case workflow, document handling and reporting.
+Full-stack engineer
 
 ## Engineering highlights
 
