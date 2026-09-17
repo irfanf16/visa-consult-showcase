@@ -20,12 +20,6 @@ Full-stack engineer
 **Appointment scheduling.** Consultant availability and client booking integrated into the case timeline.
 
 
-## Screenshots
-
-<!-- ![Case Timeline](docs/case-timeline.png) -->
-<!-- ![Document Checklist](docs/document-checklist.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
